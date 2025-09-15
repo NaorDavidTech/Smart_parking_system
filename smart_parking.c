@@ -1,8 +1,7 @@
 //smart_parking
 
-//Naor David 206493546
-//Saar Moreno 209015643
-//Itay Kassos 206963027
+//Naor David 
+
 
 
 #include <stdio.h>
@@ -489,4 +488,5 @@ int main (void)
 		 DrvSYS_Delay(1000000);           
  }
 }
+
 
