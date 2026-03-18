@@ -55,6 +55,7 @@ The app allows the user to:
 - Exit authorization via in-app payment
 
 
-## 👨‍🔧 Author
+## 👨‍💻 Author
 
-- Naor David  
+**Naor David**
+Electronics Engineer
