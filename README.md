@@ -1,4 +1,4 @@
-![FPGA_FC_Inference](docs/Full_RTL_schematic.png)
+![FPGA_FC_Inference](system_diagram.pdf)
 # Smart_parking_system
 Smart parking system using Nuvoton NUC140 microcontroller with RFID, ultrasonic sensors, servo control, and Bluetooth mobile app integration.
 
